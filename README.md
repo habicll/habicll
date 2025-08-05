@@ -65,7 +65,7 @@ Application C++ de calcul d'itinéraire avec API REST (XML/JSON).
 Fichorion-AI : génération automatisée de fiches documentaires.  
 ✔️ Fusion de données publiques/privées  
 ✔️ Interface responsive  
-`Python` `Generative AI` `AWS` 
+`Python` `Generative AI` `AWS` [GitHub](https://github.com/GuillotSamuel/GenAI_hackaton)
 
 ---
 
