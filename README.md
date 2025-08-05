@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 À Propos
-*Étudiant passionné par les nouvelles innovations et porté par le self-improvement. Fort d'une expérience en management d'équipe, je vise à devenir chef de projet sur des projets informatiques. Maîtrise de l'anglais (niveau 82) et compétences interculturelles acquises lors d'expériences internationales. Passionné par l'algorithmie et la création de solutions techniques innovantes.*
+*Étudiant passionné par les nouvelles innovations et porté par le self-improvement. Fort d'une expérience en management d'équipe, je vise à devenir chef de projet sur des projets informatiques. Maîtrise de l'anglais (niveau B2) et compétences interculturelles acquises lors d'expériences internationales. Passionné par l'algorithmie et la création de solutions techniques innovantes.*
 
 ---
 
