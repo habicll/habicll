@@ -51,14 +51,14 @@ Application web pour l'association de produits alimentaires développée sur Bub
 Application éducative pour la simulation de signaux FPGA.  
 ✔️ Rédaction manuel utilisateur  
 ✔️ Documentation d'installation  
-`FPGA` `Technical Writing` `VHDL` [GitHub](https://github.com/algosup2024-2025-project-4-web-fgas-team-5)
+`FPGA` `Technical Writing` `VHDL` [GitHub](https://github.com/algosup/2024-2025-project-4-web-fpga-team-5)
 
 ### 🗺️ Quickeat Path (Project Manager)
 **Jan 2025 - Fév 2025**  
 Application C++ de calcul d'itinéraire avec API REST (XML/JSON).  
 ✔️ Gestion d'équipe (note 100%)  
 ✔️ Optimisation algorithmique sur 24M+ de nœuds  
-`C++` `Project Management` `GitHub` `Algorithmie` [GitHub](https://github.com/algosup/2024-2025-project-3-quickeat-path-team-5)
+`C++` `Project Management` `GitHub` `Algorithmie` [GitHub](https://github.com/algosup/2024-2025-project-3-quickest-path-team-5)
 
 ### 🤖 Hackathon GenAI – Sia Partners
 **Jan 2025 - Fév 2025**  
