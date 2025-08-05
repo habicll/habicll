@@ -90,4 +90,4 @@ Fichorion-AI : génération automatisée de fiches documentaires.
 
 ## 📬 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/habi-cailleau-3b72b5293)
-[![Email](https://img.shields.io/badge/Email-0078D4?logo=gmail)](mailto:habixx67@email.com)
+[![Email](https://img.shields.io/badge/Email-0078D4?logo=gmail)](mailto:habixx67@gmail.com)
