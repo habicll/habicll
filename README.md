@@ -69,12 +69,11 @@ Fichorion-AI : génération automatisée de fiches documentaires.
 
 ---
 
-## 🏆 Hackathons & Compétitions
+## 🏆 Compétitions
 | Événement | Résultat | Technologies |
 |----------|----------|--------------|
+| **Hackathon Avalanche** | 🥇 1ère place | `Tokenisation` `NFC` |
 | **Startup Challenge** (CCI36) | 🥈 2ème place | Pitch stratégique |
-| **Hackathon Blockchain X AI** | Projet CrippleFM | `Blockchain` `AI` |
-| **Hackathon Avalanche** | Tokenisation NFC | `Solidity` `NFC` |
 
 ---
 
