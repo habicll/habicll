@@ -1,16 +1,16 @@
-# 👋 Habi Cailleau 
-**🎓 Étudiant en Technologie | Passionné de computer science & Gestion de Projet**  
+# Habi Cailleau 
+**🎓 Étudiant en Tech | Passionné de computer science & gestion de projet**  
 📍 Centre-Val de Loire, France  
 
 ---
 
-## 🚀 À Propos
+## 🚀 À propos
 *Étudiant passionné par les nouvelles innovations et porté par le self-improvement. Fort d'une expérience en management d'équipe, je vise à devenir chef de projet sur des projets informatiques. Maîtrise de l'anglais (niveau B2) et compétences interculturelles acquises lors d'expériences internationales. Passionné par l'algorithmie et la création de solutions techniques innovantes.*
 
 ---
 
-## 🛠️ Compétences Techniques
-### Langages & Outils
+## 🛠️ Compétences techniques
+### Langages & outils
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -24,7 +24,7 @@
 ![Agile](https://img.shields.io/badge/Agile-0096D6?logo=agile)
 ![Waterfall](https://img.shields.io/badge/Waterfall-0052CC)
 
-### Domaines & Soft Skills
+### Domaines & soft Skills
 ![Project Management](https://img.shields.io/badge/Project_Management-FF6B6B)
 ![Technical Writing](https://img.shields.io/badge/Technical_Writing-4ECDC4)
 ![Algorithmie](https://img.shields.io/badge/Algorithmie-009688)
@@ -36,9 +36,9 @@
 
 ---
 
-## 🌟 Derniers Projets
+## 🌟 Derniers projets
 
-### 🧀 Accords Fromages & Vins – Intermarché (Tech Leader)
+### 🧀 Accords fromages & vins – Intermarché (tech leader)
 **Avr 2025 - Juin 2025**  
 Application web pour l'association de produits alimentaires développée sur Bubblok.  
 ✔️ Gestion d'équipe technique  
@@ -46,14 +46,14 @@ Application web pour l'association de produits alimentaires développée sur Bub
 ✔️ Cohérence architecturale  
 `Bubblok` `API` `Data Management` [GitHub](https://github.com/algosup/2024-2025-project-5-bubble-intermarche-team-6)
 
-### ⚡ Web Interface for FPGA Simulator – CNES (Rédacteur Technique)
+### ⚡ Web interface for FPGA simulator – CNES (rédacteur technique)
 **Fév 2025 - Mar 2025**  
 Application éducative pour la simulation de signaux FPGA.  
 ✔️ Rédaction manuel utilisateur  
 ✔️ Documentation d'installation  
 `FPGA` `Technical Writing` `VHDL` [GitHub](https://github.com/algosup/2024-2025-project-4-web-fpga-team-5)
 
-### 🗺️ Quickeat Path (Project Manager)
+### 🗺️ Quickest path (Project manager)
 **Jan 2025 - Fév 2025**  
 Application C++ de calcul d'itinéraire avec API REST (XML/JSON).  
 ✔️ Gestion d'équipe (note 100%)  
@@ -73,11 +73,11 @@ Fichorion-AI : génération automatisée de fiches documentaires.
 | Événement | Résultat | Technologies |
 |----------|----------|--------------|
 | **Hackathon Avalanche** | 🥇 1ère place | `Tokenisation` `NFC` |
-| **Startup Challenge** (CCI36) | 🥈 2ème place | Pitch stratégique |
+| **Startup challenge** (CCI36) | 🥈 2ème place | Pitch stratégique |
 
 ---
 
-## 📚 Formation & Certifications
+## 📚 Formation & certifications
 - **ALGOSUP** - Étudiant en Technologie (2023-2025)
 - **English Proficiency Certificate** (Duolingo English Text, 2024-2026)
 - **Compétences Validées** : 
